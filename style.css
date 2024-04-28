@@ -34,6 +34,7 @@
     position: relative;
     width: 149px;
     height: 45px;
+    top: -14px;
 }
 
 .desktop .MENTA-lcare {
@@ -61,7 +62,7 @@
     position: absolute;
     width: 46px;
     height: 45px;
-    top: 0;
+    top: 0px;
     left: 0;
 }
 
